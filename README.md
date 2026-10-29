@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khushbu!
+## 👋 Hi, I'm Khushbu!
 
 🎓 Student | 💻 Aspiring web Developer
 
