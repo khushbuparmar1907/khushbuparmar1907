@@ -33,7 +33,6 @@ programming, and learning new skills.
 
 ## 🎯 My Goals
 
-- Build creative and useful projects.
 - Improve my programming skills.
 - Develop attractive websites.
 - Grow as a developer and designer.
